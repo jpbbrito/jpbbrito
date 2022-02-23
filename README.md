@@ -1,7 +1,7 @@
 # :cactus: João Paulo B. Brito
 - 🔭 I’m currently working on my personal project [Curió](https://github.com/jpbbrito/problemas-cidade)
 - :running: I am part of the [LoveBits](https://www.lovebits.dev/) meetup organization.
-- :books: I’m currently learning **Docker, NestJS and Oracle Cloud**
+- :books: I’m currently learning **Dokk and VueJS**
 - 📫 How to reach me **https://t.me/jp_bbrito**
 ## Languague, Technologies and Tools...
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -9,9 +9,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
