@@ -1,5 +1,5 @@
 # :cactus: João Paulo B. Brito
-- 🔭 I’m currently working on my personal project [Problemas na Cidade](https://github.com/jpbbrito/problemas-cidade)
+- 🔭 I’m currently working on my personal project [Curió](https://github.com/jpbbrito/problemas-cidade)
 - :running: I am part of the [LoveBits](https://www.lovebits.dev/) meetup organization.
 - :books: I’m currently learning **Docker, NestJS and Oracle Cloud**
 - 📫 How to reach me **https://t.me/jp_bbrito**
