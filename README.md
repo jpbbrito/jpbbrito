@@ -1,7 +1,5 @@
 # :cactus: João Paulo B. Brito
 - 🔭 I’m currently working on my personal project [Curió](https://github.com/jpbbrito/problemas-cidade)
-- :running: I am part of the [LoveBits](https://www.lovebits.dev/) meetup organization.
-- :books: I’m currently learning **Dokku and React JS**
 - 📫 How to reach me **https://t.me/jp_bbrito**
 ## Languague, Technologies and Tools...
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
